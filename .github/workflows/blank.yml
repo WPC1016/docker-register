@@ -35,7 +35,7 @@ jobs:
         with:
           registry: crpi-mfzd1wd243t47ks1.cn-hangzhou.personal.cr.aliyuncs.com #注意这里
           username: wpc1016
-          password: wpc1016
+          password: wpc991016
           logout: false
         
       - name: Use Skopeo Tools Sync Image to Docker Hub
